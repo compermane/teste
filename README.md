@@ -14,7 +14,7 @@ ciência e gostaria de aprofundar mais no assunto; tende a estimar a
 habilidade da ciência de resolver o que é, essencialmente, um
 problema social; dá maior prioridade para pesquisa aplicada em detrimento de pesquisas fundamentais e, geralmente, apoia
 plenamente a ciência ao mesmo tempo que desconfia de suas
-aplicações. <strong>(BODMER, 1986, p.14, tradução nossa)</strong>[^bodmer] </p> <blockquote>
+aplicações. <strong>(BODMER, 1986, p.14, tradução nossa)</strong>[^bodmer] </p> </blockquote>
 
 
 <p style = "text-align: justify">Com base na citação de Walter Fred Bodmer, retirado de um artigo publicado
