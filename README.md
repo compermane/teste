@@ -9,12 +9,12 @@
 <p style = "text-align: justify">O Correio do Philadelpho é um [Trabalho de Conclusão de Curso][1] feito pelos alunos da Etec Philadelpho Gouvêa Netto. O objetivo deste projeto é facilitar o acesso ao conhecimento de vários assuntos, desde eventos que acontecem naquela escola ou sobre temas científicos. Visamos minimizar os empecilhos que impedem o acesso a tais informações, como a dificuldade de textos que tratam sobre os assuntos ou a pouca divulgação dos mesmos. </P>
 
 ### Introdução
-> <p style = "text-align: justify"> Com a evidência posta, parece que o público ‘geral’: é interessado em
+<blockquote> <p style = "text-align: justify"> Com a evidência posta, parece que o público ‘geral’: é interessado em
 ciência e gostaria de aprofundar mais no assunto; tende a estimar a
 habilidade da ciência de resolver o que é, essencialmente, um
 problema social; dá maior prioridade para pesquisa aplicada em detrimento de pesquisas fundamentais e, geralmente, apoia
 plenamente a ciência ao mesmo tempo que desconfia de suas
-aplicações. <strong>(BODMER, 1986, p.14, tradução nossa)</strong>[^bodmer] </p>
+aplicações. <strong>(BODMER, 1986, p.14, tradução nossa)</strong>[^bodmer] </p> <blockquote>
 
 
 <p style = "text-align: justify">Com base na citação de Walter Fred Bodmer, retirado de um artigo publicado
